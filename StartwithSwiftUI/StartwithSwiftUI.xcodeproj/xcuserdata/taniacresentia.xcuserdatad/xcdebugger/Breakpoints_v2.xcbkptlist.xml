@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "6E5A58F4-7742-45FE-A833-85F5583F6FDD"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "07B71EAA-34E8-437E-A2B2-2AEFEEE82ED8"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VideoPlayerView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "ProgressBar2"
+            landmarkType = "14">
+            <Locations>
+               <Location
+                  uuid = "07B71EAA-34E8-437E-A2B2-2AEFEEE82ED8 - db1043fb58a088ae"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "property wrapper backing initializer of StartwithSwiftUI.ProgressBar2.downloadAmount : Swift.Double"
+                  moduleName = "StartwithSwiftUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/taniacresentia/Desktop/SwiftUI/StartwithSwiftUI/VideoPlayerView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "21">
+               </Location>
+               <Location
+                  uuid = "07B71EAA-34E8-437E-A2B2-2AEFEEE82ED8 - b5658574705bd311"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "StartwithSwiftUI.ProgressBar2.init() -&gt; StartwithSwiftUI.ProgressBar2"
+                  moduleName = "StartwithSwiftUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/taniacresentia/Desktop/SwiftUI/StartwithSwiftUI/VideoPlayerView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "69">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
